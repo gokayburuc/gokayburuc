@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**gokayburuc/gokayburuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Gökay BÜRÜÇ. I am an Industrial Engineer and also a programmer.
+
+Currently working on these Python topics:
+* ⚡ CV(Computer Vision) projects  - (OpenCV) 
+* ⚡ NLP Projects (nltk, textblob)
+* ⚡ Web Scraping Projects (bs4, requests, urllib)
+* ⚡ TTS Projects ( gTTS ) 
+* ⚡ Data Science ( pandas, numpy )
+* ⚡ Data Visualization (seaborn, matplotlib, plotly)
+* ⚡ DBMS (psycopg2, sqlite3, sqlitealchemy)
+
+------------------------------------------------
