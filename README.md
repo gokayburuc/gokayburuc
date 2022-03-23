@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-
-
-My name is Gökay BÜRÜÇ. I am an Industrial Engineer and also a programmer.
+My name is Gökay BÜRÜÇ. Currently living in Bursa,Turkey. I am an Industrial Engineer 🛠️ and also a Programmer ⌨️ .
 
 Currently working on these Python topics:
 * ⚡ CV(Computer Vision) projects  - (OpenCV) 
@@ -14,3 +12,8 @@ Currently working on these Python topics:
 * ⚡ DBMS (psycopg2, sqlite3, sqlitealchemy)
 
 ------------------------------------------------
+
+Also working on : 
+* 🖋️ Linux Terminal Administration & Bash Script 
+* 🖋️ MongoDB - NOSQL Database Management System 
+* 
