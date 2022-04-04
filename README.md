@@ -1,4 +1,4 @@
-# BIO
+## SHORT BIO
 > Gökay BÜRÜÇ (_Pronounciation: Gyokay Byuruch_)
 > ---------------------------------
 > RUSSIAN 🇷🇺  ENGLISH 🇬🇧 TURKISH 🇹🇷  
