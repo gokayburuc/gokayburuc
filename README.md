@@ -43,8 +43,6 @@ My Social Websites :
 
 ## PROJECTS 
 
-![Projects](https://c.tenor.com/kyk4ZXEgo-AAAAAC/get-out-of-here-throw.gif)
-
 Currently working on these Python topics:
 * ⚡ CV(Computer Vision) projects  - (OpenCV) 
 * ⚡ NLP Projects (nltk, textblob)
