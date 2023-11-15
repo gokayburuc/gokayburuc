@@ -5,6 +5,3 @@
 - 🌱 I’m currently learning Kotlin, Flutter, Dart, ReactNative 
 - 💞️ I’m looking to collaborate on Mobile App Development
 - 📫 How to reach me [gokayburuc@yandex.com](mailto:gokayburuc@yandex.com) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokayburuc&theme=dracula)
-
