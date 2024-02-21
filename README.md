@@ -62,6 +62,7 @@
 - [Dotfiles](https://github.com/gokayburuc/mydotfiles) :  Linux System Configurations, zsh, tmux, termux, Neovim, kitty etc. 
 
 ### Python 
+![python logo](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=yellow)
 - [koeri-heatmap](https://github.com/gokayburuc/koeri-heatmap) :  Earthquake Heatmap using Folium.JS and Python 
 
 ### GO 
@@ -80,6 +81,11 @@
 
 > Still in progress 
 
+### CSS Projects 
+
+- [Link-in-bio](https://github.com/gokayburuc/link-in-bio)  : Simple link in bio page using CSS and HTML
+
+
 ### Javascript and JSFrameworks 
 
 > Still in progress 
@@ -89,4 +95,3 @@
 
 ![git-stats](https://github-readme-stats.vercel.app/api?username=gokayburuc&show_icons=true)
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokayburuc&layout=donut)
-
