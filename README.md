@@ -85,6 +85,7 @@
 
 - [Link-in-bio](https://github.com/gokayburuc/link-in-bio)  : Simple link in bio page using CSS and HTML
 
+- [Palestine-Chronology](https://github.com/gokayburuc/palestine-history) : Palestine History using CSS and HTML
 
 ### Javascript and JSFrameworks 
 
