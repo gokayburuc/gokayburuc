@@ -67,7 +67,7 @@
 
 ### Bash 
 
-- [terminal-radio-player](https://github.com/gokayburuc/bash_radio_player) 
+- [terminal-radio-player](https://github.com/gokayburuc/bash_radio_player)  : You can listen radio from your linux terminla using `mpv` and `fzf` [ NERD mode ]
 
 ### GO 
 
