@@ -65,6 +65,10 @@
 ![python logo](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=yellow)
 - [koeri-heatmap](https://github.com/gokayburuc/koeri-heatmap) :  Earthquake Heatmap using Folium.JS and Python 
 
+### Bash 
+
+- [terminal-radio-player](https://github.com/gokayburuc/bash_radio_player) 
+
 ### GO 
 
 > Still in progress 
