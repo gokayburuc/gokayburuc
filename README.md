@@ -62,11 +62,9 @@
 - [Dotfiles](https://github.com/gokayburuc/mydotfiles) :  Linux System Configurations, zsh, tmux, termux, Neovim, kitty etc. 
 
 ### Python 
-![python logo](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=yellow)
 - [koeri-heatmap](https://github.com/gokayburuc/koeri-heatmap) :  Earthquake Heatmap using Folium.JS and Python 
 
 ### Bash 
-
 - [terminal-radio-player](https://github.com/gokayburuc/bash_radio_player)  : You can listen radio from your linux terminla using `mpv` and `fzf` [ NERD mode ]
 
 ### GO 
@@ -88,13 +86,22 @@
 ### CSS Projects 
 
 - [Link-in-bio](https://github.com/gokayburuc/link-in-bio)  : Simple link in bio page using CSS and HTML
-
 - [Palestine-Chronology](https://github.com/gokayburuc/palestine-history) : Palestine History using CSS and HTML
 
 ### Javascript and JSFrameworks 
-
+#### React JS 
 > Still in progress 
 
+#### Astro JS 
+> Still in progress
+
+#### Svelte JS
+> Still in progress
+
+### Static Websites 
+
+#### Hugo 
+> Still in progress
 
 ## User Stats 
 
