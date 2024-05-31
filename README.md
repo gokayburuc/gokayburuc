@@ -79,7 +79,7 @@
 
 ### GO
 
-> Still in progress
+- [go-resource-compilation](https://github.com/gokayburuc/golang-resource-compilation) : Resource compilation for GO Language (language: Turkish)
 
 ### Rust
 
