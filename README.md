@@ -80,6 +80,7 @@
 ### GO
 
 - [go-resource-compilation](https://github.com/gokayburuc/golang-resource-compilation) : Resource compilation for GO Language (language: Turkish)
+- [GO Cookbook by gokayburuc](https://golangcookbook.netlify.app/) : GO Fundamentals & Cookbook written at [MDBook](https://github.com/rust-lang/mdBook) in Turkish language.
 
 ### Rust
 
@@ -88,14 +89,6 @@
 ### Termux
 
 - [Termux Kurulum Rehberi](https://github.com/gokayburuc/termux-kurulum-rehberi) : Termux Setup Guide for Android [Turkish Language]
-
-### ZSH
-
-> Still in progress
-
-### Kitty
-
-> Still in progress
 
 ### CSS Projects
 
