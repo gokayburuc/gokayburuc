@@ -2,8 +2,11 @@
 
 ## Short Bio ⚡
 
-My name is <span style="font-size:1.25em; color:darkgreen; font-weight:bold;">Gökay BÜRÜÇ</span> (_Gyokai Byuruch_) . I am from <span style="font-size:1.25em; color:red; font-weight:bold"> Kırklareli,Turkey </span>
-I'm an <span style="font-size:1.25em; color:blue;"> Industrial Engineer </span> & <span style="font-size:1.25em; color:blue;"> Full-Stack Developer </span>
+Gökay BÜRÜÇ (_Gyokai Byuruch_),
+11/21/1987,
+M,
+Industrial Engineer & Full-Stack Developer,
+Kırklareli / Turkey
 
 ### Interests
 
