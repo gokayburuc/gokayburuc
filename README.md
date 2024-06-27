@@ -2,19 +2,27 @@
 
 ## Short Bio ⚡
 
-- Hi, my name is Gökay Bürüç (Gyokay Byuryuch).
-- I am from [Kırklareli](https://maps.app.goo.gl/JJyV2UTdzu4DWVKG9) , Turkey.
-- I'm interested in Web Development & Mobile Development (And Little Bit Terminal Stuffs)
-- Linux Terminal User. _I needed a screwdriver, but Microsoft gave me a hammer._
-- I'm a VIM / NEOVIM User.
-- Polyglot: Russian (B2), Arabic (A2), Turkish (Native), Greek(A2), Bulgarian(A2)
+My name is <span style="font-size:1.25em; color:darkgreen; font-weight:bold;">Gökay BÜRÜÇ</span> (_Gyokai Byuruch_) . I am from <span style="font-size:1.25em; color:red; font-weight:bold"> Kırklareli,Turkey </span>
+I'm an <span style="font-size:1.25em; color:blue;"> Industrial Engineer </span> & <span style="font-size:1.25em; color:blue;"> Full-Stack Developer </span>
+
+### Interests
+
+- Computer Vision & ML / DL
+- Linux System Administration
+- Mobile Development
+- UX / UI
+- Web Development
+
+### Languages
+
+![English](https://badgen.net/static/English/B2/blue) ![Russian](https://badgen.net/static/Russian/B2/blue) ![Arabic](https://badgen.net/static/Arabic/A2/green) ![Turkish](https://badgen.net/static/Turkish/Native/red) ![Greek](https://badgen.net/static/Greek/A2/green) ![Bulgarian](https://badgen.net/static/Bulgarian/A2/green)
 
 ## Contact 📫
 
 - You can reach me on [gokayburuc@yandex.com](mailto:gokayburuc@yandex.com)
 - And also my LinkInPage is [https://linktr.ee/gokayburuc](https://linktr.ee/gokayburuc)
 
-## Programming & Tech Knowledge
+## Tech Badges
 
 ### OS
 
@@ -55,7 +63,7 @@
 ![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-## Learning Now :
+## Learning Now
 
 ### Mobile Development - (Still in Progress)
 
@@ -83,6 +91,8 @@
 - [GO Cookbook by gokayburuc](https://golangcookbook.netlify.app/) : GO Fundamentals & Cookbook written at [MDBook](https://github.com/rust-lang/mdBook) in Turkish language.
 
 ### Rust
+
+<!--TODO: Rust ile ilgili bir link ekle -->
 
 > Still in progress
 
