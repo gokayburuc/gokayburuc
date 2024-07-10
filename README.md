@@ -2,13 +2,15 @@
 
 ## Short Bio ⚡
 
-<!--FIX: short bio -->
+<!--HACK: textbox for short bio -->
 
 Gökay BÜRÜÇ (_Gyokai Byuruch_),
 11/21/1987,
 M,
 Industrial Engineer & Full-Stack Developer,
 Kırklareli / Turkey
+
+<!--HACK: Spotify embed playlist -->
 
 ### Interests
 
@@ -22,7 +24,7 @@ Kırklareli / Turkey
 
 ![English](https://badgen.net/static/English/B2/blue) ![Russian](https://badgen.net/static/Russian/B2/blue) ![Arabic](https://badgen.net/static/Arabic/A2/green) ![Turkish](https://badgen.net/static/Turkish/Native/red) ![Greek](https://badgen.net/static/Greek/A2/green) ![Bulgarian](https://badgen.net/static/Bulgarian/A2/green)
 
-## Blogs 
+## Blogs
 
 - [Gokayburuc.devlog](https://gokayburucdevlog.netlify.app/) : Personal Blog  created with "Hugo Static Website Generator💌"
 - [Gokayburuc.bearblog.dev](https://gokayburuc.bearblog.dev/blog/) : My Turkish personal blog created with "HUGO Static Website generator 💌"
@@ -30,22 +32,14 @@ Kırklareli / Turkey
 - [Hashnode](https://gokayburuc.hashnode.dev/) : Hashnode Developer Blog 
 - [Dev.to](https://dev.to/gokayburuc) : Dev.to Personal Page 
 
-
-## Last Articles 
-
-### Dev.to 
-<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 50%; padding-top: 120px;"><a href="https://dev.to/gokayburuc/53-project-ideas-for-beginner-to-advanced-2j5" data-iframely-url="//iframely.net/nXRkxwX"></a></div></div><script async src="//iframely.net/embed.js"></script>
-
-### Medium 
-
-<script async src="https://static.medium.com/embed.js"></script><a class="m-story" href="https://medium.com/@gokayburuc/6-months-of-neovim-user-experience-18d6e0824edd">6 Months of Neovim User Experience</a>
+<!--HACK: BLOG: add latest articles automatically -->
 
 ## Contact 📫
 
 - You can reach me on [gokayburuc@yandex.com](mailto:gokayburuc@yandex.com)
 - And also my LinkInPage is [https://linktr.ee/gokayburuc](https://linktr.ee/gokayburuc)
 
-## Tech Badges
+## Tech Badges ⚡
 
 ### OS
 
@@ -79,7 +73,7 @@ Kırklareli / Turkey
 ![PostgreSQL](https://img.shields.io/badge/postgresql-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/microsoftsqlserver-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### Vim Skills
+### Vim Skills 
 
 ![vim](https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=black)
 ![Neovim](https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
@@ -116,9 +110,7 @@ Kırklareli / Turkey
 
 ### Rust
 
-<!--TODO: Rust ile ilgili bir link ekle -->
-
-> Still in progress
+- [Awesome Rust](https://gokayburucdevlog.netlify.app/post/awesome-rust/) : Awesome Rust Link Compilations
 
 ### Termux
 
