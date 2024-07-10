@@ -2,6 +2,8 @@
 
 ## Short Bio ⚡
 
+<!--FIX: short bio -->
+
 Gökay BÜRÜÇ (_Gyokai Byuruch_),
 11/21/1987,
 M,
@@ -19,6 +21,24 @@ Kırklareli / Turkey
 ### Languages
 
 ![English](https://badgen.net/static/English/B2/blue) ![Russian](https://badgen.net/static/Russian/B2/blue) ![Arabic](https://badgen.net/static/Arabic/A2/green) ![Turkish](https://badgen.net/static/Turkish/Native/red) ![Greek](https://badgen.net/static/Greek/A2/green) ![Bulgarian](https://badgen.net/static/Bulgarian/A2/green)
+
+## Blogs 
+
+- [Gokayburuc.devlog](https://gokayburucdevlog.netlify.app/) : Personal Blog  created with "Hugo Static Website Generator💌"
+- [Gokayburuc.bearblog.dev](https://gokayburuc.bearblog.dev/blog/) : My Turkish personal blog created with "HUGO Static Website generator 💌"
+- [Medium](https://medium.com/@gokayburuc) : Personal Medium Account 
+- [Hashnode](https://gokayburuc.hashnode.dev/) : Hashnode Developer Blog 
+- [Dev.to](https://dev.to/gokayburuc) : Dev.to Personal Page 
+
+
+## Last Articles 
+
+### Dev.to 
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 50%; padding-top: 120px;"><a href="https://dev.to/gokayburuc/53-project-ideas-for-beginner-to-advanced-2j5" data-iframely-url="//iframely.net/nXRkxwX"></a></div></div><script async src="//iframely.net/embed.js"></script>
+
+### Medium 
+
+<script async src="https://static.medium.com/embed.js"></script><a class="m-story" href="https://medium.com/@gokayburuc/6-months-of-neovim-user-experience-18d6e0824edd">6 Months of Neovim User Experience</a>
 
 ## Contact 📫
 
@@ -92,6 +112,7 @@ Kırklareli / Turkey
 
 - [go-resource-compilation](https://github.com/gokayburuc/golang-resource-compilation) : Resource compilation for GO Language (language: Turkish)
 - [GO Cookbook by gokayburuc](https://golangcookbook.netlify.app/) : GO Fundamentals & Cookbook written at [MDBook](https://github.com/rust-lang/mdBook) in Turkish language.
+- [GO Lyricstranslate Scraper](https://github.com/gokayburuc/colly-lyrics-scraper) : Simple Lyrics Scraper written in GO 
 
 ### Rust
 
