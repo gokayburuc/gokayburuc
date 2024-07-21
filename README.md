@@ -26,11 +26,11 @@ Kırklareli / Turkey
 
 ## Blogs
 
-- [Gokayburuc.devlog](https://gokayburucdevlog.netlify.app/) : Personal Blog  created with "Hugo Static Website Generator💌"
+- [Gokayburuc.devlog](https://gokayburucdevlog.netlify.app/) : Personal Blog created with "Hugo Static Website Generator💌"
 - [Gokayburuc.bearblog.dev](https://gokayburuc.bearblog.dev/blog/) : My Turkish personal blog created with "HUGO Static Website generator 💌"
-- [Medium](https://medium.com/@gokayburuc) : Personal Medium Account 
-- [Hashnode](https://gokayburuc.hashnode.dev/) : Hashnode Developer Blog 
-- [Dev.to](https://dev.to/gokayburuc) : Dev.to Personal Page 
+- [Medium](https://medium.com/@gokayburuc) : Personal Medium Account
+- [Hashnode](https://gokayburuc.hashnode.dev/) : Hashnode Developer Blog
+- [Dev.to](https://dev.to/gokayburuc) : Dev.to Personal Page
 
 <!--HACK: BLOG: add latest articles automatically -->
 
@@ -38,6 +38,8 @@ Kırklareli / Turkey
 
 - You can reach me on [gokayburuc@yandex.com](mailto:gokayburuc@yandex.com)
 - And also my LinkInPage is [https://linktr.ee/gokayburuc](https://linktr.ee/gokayburuc)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6w5zGfeKBDiWtpBtBjdd62?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Tech Badges ⚡
 
@@ -73,7 +75,7 @@ Kırklareli / Turkey
 ![PostgreSQL](https://img.shields.io/badge/postgresql-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/microsoftsqlserver-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### Vim Skills 
+### Vim Skills
 
 ![vim](https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=black)
 ![Neovim](https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
@@ -106,7 +108,7 @@ Kırklareli / Turkey
 
 - [go-resource-compilation](https://github.com/gokayburuc/golang-resource-compilation) : Resource compilation for GO Language (language: Turkish)
 - [GO Cookbook by gokayburuc](https://golangcookbook.netlify.app/) : GO Fundamentals & Cookbook written at [MDBook](https://github.com/rust-lang/mdBook) in Turkish language.
-- [GO Lyricstranslate Scraper](https://github.com/gokayburuc/colly-lyrics-scraper) : Simple Lyrics Scraper written in GO 
+- [GO Lyricstranslate Scraper](https://github.com/gokayburuc/colly-lyrics-scraper) : Simple Lyrics Scraper written in GO
 
 ### Rust
 
