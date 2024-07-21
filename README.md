@@ -39,8 +39,6 @@ Kırklareli / Turkey
 - You can reach me on [gokayburuc@yandex.com](mailto:gokayburuc@yandex.com)
 - And also my LinkInPage is [https://linktr.ee/gokayburuc](https://linktr.ee/gokayburuc)
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6w5zGfeKBDiWtpBtBjdd62?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 ## Tech Badges ⚡
 
 ### OS
